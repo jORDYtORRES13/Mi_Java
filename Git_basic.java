@@ -6,7 +6,7 @@ public class Git_basic {
  int b = 13;
  int suma = a + b;
  int mult = a * b;
- System.out.println("Hola, mi nombre es " + nombre + "!");
+ System.out.println("Hola Profesor Cristopher Larios, mi nombre es " + nombre + "!");
  System.out.println("Mi número de carnet es : "+ carnet);
  System.out.println("La suma de " + a + " + " + b + " es: " + suma);
  System.out.println("La multiplicación de "+ a +" * "+ b +" es :  "+ mult);
